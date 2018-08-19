@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>IsarValley Show</title>
+<link>https://www.isarvalley.io</link>
+<description>Podcast about the Developer Community in Munich</description>
+    <language>en-us</language>
+     <copyright>Isar Valley copyright 2018</copyright>
+    <atom:link href="https://www.isarvalley.io/podcast/feed.rss" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jun 2018 16:47:00 GMT</lastBuildDate>
+    <itunes:author>Werner Huber</itunes:author>
+    <itunes:summary>IsarValley Show Podcast feed</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Werner Huber</itunes:name>
+        <itunes:email>huberwerner@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://www.isarvalley.io/podcast/logo.png"/>
+     <itunes:category text="Technology">
+     </itunes:category>
+<item>
+    <title>Episode 1: IsarValley meets Silicon Valley (Live from WWDC2018) with Special Guest Andreas Fischer and Franz-Joseph Busch</title>
+<link>https://www.isarvalley.io/podcast/001.mp3</link>
+<pubDate>Wed, 06 Jun 2018 17:00:00 GMT</pubDate>
+<enclosure url="https://www.isarvalley.io/podcast/001.mp3" length="31211931" type="audio/mpeg"/>
+<description>We are kicking off our brand new Tech Podcast with a very special edtion live from WWDC2018 in San Jose.</description>
+    <itunes:summary>Talking with my tow guests Andreas Fischer from Audi Business Inovation and Franz-Joseph Busch about the Apple Developer Conference and the Silicon Valley in general.</itunes:summary>
+    <itunes:image href="https://www.isarvalley.io/podcast/logo.png"/>
+</item>
+</channel>
+</rss>
